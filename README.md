@@ -1,9 +1,9 @@
-### Hi 👋, I'm Deepanshu Thakur
+  ### Hi 👋, I'm Deepanshu Thakur
 ## A Passionate Front End Developer  { Lets Code with me }
 
 <!--
 **deepanshuthakur/deepanshuthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Frontend Technology
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with React Native Project
 - 💬 Ask me about Frontend Developer & UI/UX Design.
 - 📫 How to reach me: https://deepanshuportfoliowebsite.netlify.app
-- 😄 Pronouns: “he/him”
+- 😄 Pronouns:
 - ⚡ Fun fact: whatsapp-chat
--->
+
                            
