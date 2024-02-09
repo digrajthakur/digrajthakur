@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript 
 - 👯 I’m looking to collaborate on Frontend Developer 
 - 🤔 I’m looking for help with React Native Project
-- 💬 Ask me about Frontend Developer & UI/UX Design.
+- 💬 Ask me about Frontend Developer & Web Design.
 - 📫 How to reach me: https://deepanshuportfoliowebsite.netlify.app
 - 😄 Pronouns:
 - ⚡ Fun fact: whatsapp-chat
