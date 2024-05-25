@@ -6,7 +6,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Shopify
+- 🔭 I’m currently working on Shopify & WordPress
 - 🌱 I’m currently learning Javascript { React } 
 - 👯 I’m looking to collaborate on Frontend Developer 
 - 🤔 I’m looking for help with React Project
