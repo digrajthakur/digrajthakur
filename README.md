@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Frontend Developer 
 - 🤔 I’m looking for help with React Project
-- 💬 Ask me about Front-end Development & Shopify
+- 💬 Ask me about Front-end Development, WordPress & Shopify
 - 📫 How to reach me: https://deepanshuportfoliowebsite.netlify.app
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: WhatsApp-chat
