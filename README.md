@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Shopify & WordPress
-- 🌱 I’m currently learning GCP with python
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Frontend Developer 
 - 🤔 I’m looking for help with React Project
 - 💬 Ask me about Front-end Development & Shopify
