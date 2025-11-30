@@ -6,13 +6,14 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React, Shopify & WordPress
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on Frontend Developer 
-- 🤔 I’m looking for help with React Project
-- 💬 Ask me about Front-end Development, WordPress & Shopify
-- 📫 How to reach me: https://deepanshuportfoliowebsite.netlify.app
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: WhatsApp-chat
+- 🔭 Currently working with: React, Shopify, and WordPress
+- 🌱 Currently learning: Full-stack Development
+- 👯 Open to collaborate on: Full-stack development projects
+- 🤔 Looking for help with: Advanced React projects
+- 💬 Ask me about: Front-end Development, Shopify, and WordPress
+- 📫 Portfolio: deepanshuportfoliowebsite.netlify.app
+
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring and creating WhatsApp chat automations
 
                            
