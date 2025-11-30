@@ -1,6 +1,5 @@
   ### Hi 👋, I'm Deepanshu Thakur
 ## 👨‍💻 A Passionate Front-End Developer — { Let's Code With Me }
-
 ## Frontend Developer | React | Shopify | WordPress
 
 <!--
