@@ -1,5 +1,7 @@
   ### Hi 👋, I'm Deepanshu Thakur
-## A Passionate Front End Developer  { Lets Code with me }
+## 👨‍💻 A Passionate Front-End Developer — { Let's Code With Me }
+
+## Frontend Developer | React | Shopify | WordPress
 
 <!--
 **deepanshuthakur/deepanshuthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
