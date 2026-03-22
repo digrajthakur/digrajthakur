@@ -8,7 +8,7 @@
 
 🚀 About Me:
 - 🔭 **Currently working with:** React, Shopify, and WordPress
-- 🌱 **Currently learning:** Full-stack Development
+- 🌱 **Currently learning:** AWS
 - 👯 **Open to collaborate on:** Full-stack development projects
 - 🤔 **Looking for help with:** Advanced React projects
 - 💬 **Ask me about:** Front-end Development, Shopify, and WordPress
