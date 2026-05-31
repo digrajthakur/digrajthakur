@@ -8,7 +8,7 @@
 
 🚀 About Me:
 - 🔭 **Currently working with:** React, Shopify, and WordPress
-- 🌱 **Currently learning:** AWS & AI
+- 🌱 **Currently learning:** Agentic AI, RAG & AWS 
 - 👯 **Open to collaborate on:** Web and Full-Stack Development Projects
 - 🤔 **Looking for help with:** Advanced React projects
 - 💬 **Ask me about:** Frontend Development, Shopify and WordPress
